@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962622954397",
+    "project_id": "namandy2-5add9",
+    "storage_bucket": "namandy2-5add9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962622954397:android:6bf2b3f2762234eea72d74",
+        "android_client_info": {
+          "package_name": "com.example.naman_dy2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962622954397-ch85po8mmj6pshmrdtc0kcdkft73hdcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEY9WihoUHSf-EWiDHx35Od_3eUZJ8Xhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962622954397-ch85po8mmj6pshmrdtc0kcdkft73hdcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

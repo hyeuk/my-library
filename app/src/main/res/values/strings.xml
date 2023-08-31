@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">나만의 서재</string>
+    <string name="BN">책제목</string>
+    <string name="BA">저자</string>
+    <string name="BP">책가격</string>
+    <string name="back">◀</string>
+    <string name="tWish">위시리스트</string>
+    <string name="tLib">서재 등록</string>
+    <string name="main_1">◀</string>
+    <string name="main_2">도서 등록하기</string>
+    <string name="main_3">책 제목,ISBN 입력</string>
+    <string name="main_4">바코드 입력</string>
+    <string name="main_5">직접 입력</string>
+    <string name="main2_1">도서 검색</string>
+    <string name="main2_2">🔎</string>
+    <string name="main2_3">도서명, 저자, ISBN</string>
+    <string name="main2_4">X</string>
+    <string name="main2_5">국내도서</string>
+    <string name="main2_6">영어권도서</string>
+    <string name="main2_7">일본도서</string>
+    <string name="main2_8">책 이름</string>
+    <string name="main2_9">지은이</string>
+    <string name="main2_10">출판사</string>
+    <string name="main2_11">서재 추가</string>
+    <string name="main2_12">위시리스트 추가</string>
+
+    <string name="main3_1">바코드 검색 중...</string>
+    <string name="main3_2">바코드를 선에 맞추어 주세요</string>
+
+    <string name="main4_1">직접 입력</string>
+    <string name="main4_2">ISBN</string>
+    <string name="main4_3">책 이름</string>
+    <string name="main4_4">부제목</string>
+    <string name="main4_5">지은이</string>
+    <string name="main4_6">출판사</string>
+    <string name="main4_7">출판일</string>
+    <string name="main4_8">가격</string>
+    <string name="main4_9">장르</string>
+    <string name="main4_10">저장</string>
+    <string name="main4_11">등록</string>
+
+    <string name="friend_chat">친구들은 지금</string>
+    <string name="search">검색</string>
+    <string name="friend_add">친구 추가</string>
+    <string name="friend_del">친구 삭제</string>
+    <string name="message">메시지</string>
+    <string name="id_search">아이디 검색</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="book_in">책 등록하기</string>
+    <string name="mbs">My Books</string>
+    <string name="friends">친구들은     지금</string>
+    <string name="progress">책 진행률 (읽은P/전체P)</string>
+    <string name="prgs">진행률 저장</string>
+
+</resources>
